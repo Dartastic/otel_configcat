@@ -2,7 +2,7 @@ name: otel_configcat
 description: >-
   OpenTelemetry instrumentation for configcat by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use configcat.
-version: 0.1.0-wip
+version: 0.1.0
 repository: https://github.com/dartastic/otel_configcat
 homepage: https://dartastic.io
 
